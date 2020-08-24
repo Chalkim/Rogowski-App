@@ -4,4 +4,4 @@
 
 阶跃响应，脉冲响应的仿真。
 
-![image](https://github.com/Chalkim/Rogowski-App/images/gui.png)
+![image](https://github.com/Chalkim/Rogowski-App/blob/master/images/gui.png)
