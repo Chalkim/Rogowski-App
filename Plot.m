@@ -1,0 +1,6 @@
+function [] = Plot(simout)
+%PLOT ª≠Õº
+%    ‰»Î≤Œ ˝ out
+    plot(simout.time,simout.signals.values);
+end
+
